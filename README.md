@@ -7,7 +7,7 @@ This project explores the relationship between a student’s family income backg
 **Is there a correlation between family income level and college enrollment rates among U.S. universities?**
 
 ## Methodology
-- A **Chi-Square Goodness of Fit Test** was conducted to compare the observed proportions of students from the top 5th and bottom 5th income brackets against a hypothesized equal distribution.
+- A Chi-Square Goodness of Fit Test was conducted to compare the observed proportions of students from the top 5th and bottom 5th income brackets against a hypothesized equal distribution.
 - Descriptive statistics (mean, median, standard deviation) were calculated to examine trends in parent income and enrollment percentages.
 
 ## Key Findings
@@ -15,7 +15,7 @@ This project explores the relationship between a student’s family income backg
 - **Critical Value**: 3.84  
 - **P-Value**: 0.0057  
 - **Conclusion**: Because the test statistic exceeds the critical value and the p-value is below 0.05, we reject the null hypothesis. There is statistically significant evidence that family income background impacts the likelihood of pursuing higher education.
-- Across all universities analyzed, students from families in the **top fifth percentile** were **substantially overrepresented** compared to those from the bottom fifth.
+- Across all universities analyzed, students from families in the top fifth percentile were substantially overrepresented compared to those from the bottom fifth.
 
 ## File Description
 - `Financial_Background_Higher_Education– Data_Collection-Sydney Long.xlsx` – Contains raw data, chi-square calculations, and descriptive statistics.
